@@ -1,4 +1,4 @@
-# Data-processing-and-analysis-R
+# Data-preprocessing-and-analysis-R
 
 The aim of the project was to prepare a dataset and its statistical analysis along with visualization in the R programming language.
 
